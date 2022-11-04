@@ -1,0 +1,1 @@
+﻿server=eesa.easysales-sigma.online; database=sprint_eesa; user=sprint_eesa; password=4x0@Sv21h; persist security info=False;
